@@ -1,0 +1,6 @@
+Including stylesheet writing css in a seperate document & linking it with HTML file :
+so we learn about 3 types of text coloring stle in sheet help of css
+1. inline color property 
+2. <style> tag color property
+3. style.sheet  (#style.css)
+so you always remember that you use mostly text color property in style.css file not mixup with index.html
